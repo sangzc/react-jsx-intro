@@ -10,5 +10,5 @@ ReactDOM.render(
         <App tweets= { props } />
     </div>,
     document.getElementById("root")
-  );
+);
 
